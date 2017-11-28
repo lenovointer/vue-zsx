@@ -33,27 +33,12 @@ npm run dev
 
 >  开发环境 macOS 10.12.3  Chrome 56  nodejs 6.10.0
 
->  辰妹子[@bailichen](https://github.com/bailichen)
-
-
-## 关于 数据接口 的说明🤔
-
-### 2017-05-30
-
-以后改用nodejs构建的
-[后台系统](https://github.com/bailicangdu/node-elm)接口，数据接口的格式保持了和官网的一致。并提供对应的
-[后台管理系统](https://github.com/bailicangdu/vue2-manage)
 
 
 
 # 效果演示
 
 [查看demo请戳这里](http://cangdu.org:8001/)（请用chrome手机模式预览）
-
-### 移动端扫描下方二维码
-
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/ewm.png" width="250" height="250"/>
-
 
 
 # 目标功能
@@ -99,10 +84,6 @@ npm run dev
 
 6、项目已经完成，共45个页面。
 
-
-# 最终目标
-
-1、用node.js构建一个模拟外卖平台的后台系统。[地址在这里](https://github.com/bailicangdu/node-elm)
 
 
 
